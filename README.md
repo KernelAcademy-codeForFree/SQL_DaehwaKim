@@ -1,3 +1,3 @@
 # SQL_DaehwaKim
 
-250508 https://www.hackerrank.com/challenges/revising-the-select-query/problem
+250508 hackerrank.com - Revising the Select Query I
