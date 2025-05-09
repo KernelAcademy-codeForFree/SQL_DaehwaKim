@@ -4,4 +4,5 @@
 250509 hackerrank.com - Revising the Select Query II<br>
 250509 hackerrank.com - Select All<br>
 250509 hackerrank.com - Select By ID<br>
+250509 hackerrank.com - Japanese Cities' Attributes
 
