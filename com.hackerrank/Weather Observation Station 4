@@ -1,0 +1,2 @@
+SELECT COUNT(*) - COUNT(DISTINCT CITY) AS duplicate_count
+FROM STATION;
