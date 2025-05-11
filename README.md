@@ -15,3 +15,5 @@
 250511 hackerrank.com - Weather Observation Station 8<br>
 250511 hackerrank.com - Weather Observation Station 9<br>
 250511 hackerrank.com - Weather Observation Station 10<br>
+250511 hackerrank.com - Weather Observation Station 11<br>
+250511 hackerrank.com - Weather Observation Station 12<br>
