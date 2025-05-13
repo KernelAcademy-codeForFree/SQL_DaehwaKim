@@ -20,3 +20,4 @@
 250512 hackerrank.com - Higher Than 75 Marks<br>
 250513 hackerrank.com - Employee Salaries<br>
 250513 hackerrank.com - Employee Names<br>
+250514 hackerrank.com - Type of Triangle<br>
