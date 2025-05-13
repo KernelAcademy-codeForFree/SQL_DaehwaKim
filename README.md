@@ -21,3 +21,8 @@
 250513 hackerrank.com - Employee Salaries<br>
 250513 hackerrank.com - Employee Names<br>
 250514 hackerrank.com - Type of Triangle<br>
+250514 hackerrank.com - Average Population<br>
+250514 hackerrank.com - Japan Population<br>
+250514 hackerrank.com - Revising Aggregations - The Count Function<br>
+250514 hackerrank.com - Revising Aggregations - The Sum Function<br>
+250514 hackerrank.com - Revising Aggregations - Averages<br>
