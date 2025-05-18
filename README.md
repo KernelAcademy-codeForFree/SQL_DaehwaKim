@@ -26,3 +26,6 @@
 250514 hackerrank.com - Revising Aggregations - The Count Function<br>
 250514 hackerrank.com - Revising Aggregations - The Sum Function<br>
 250514 hackerrank.com - Revising Aggregations - Averages<br>
+250518 hackerrank.com - Population Density Difference <br>
+250518 hackerrank.com - Weather Observation Station 2 <br>
+250518 hackerrank.com - Weather Observation Station 13 <br>
