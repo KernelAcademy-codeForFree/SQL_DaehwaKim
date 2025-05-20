@@ -29,3 +29,6 @@
 250518 hackerrank.com - Population Density Difference <br>
 250518 hackerrank.com - Weather Observation Station 2 <br>
 250518 hackerrank.com - Weather Observation Station 13 <br>
+250521 hackerrank.com - Weather Observation Station 14 <br>
+250521 hackerrank.com - Weather Observation Station 15 <br>
+250521 hackerrank.com - Weather Observation Station 16 <br>
