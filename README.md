@@ -36,4 +36,5 @@
 250530 hackerrank.com - The Blunder <br>
 250602 hackerrank.com - Top Earners <br>
 250603 hackerrank.com - Population Census <br>
+250603 hackerrank.com - Draw The Triangle 1 <br>
 
