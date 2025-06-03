@@ -1,0 +1,4 @@
+SELECT RPAD('* ', 2 * (21 - LEVEL) - 1, '* ')
+FROM dual
+CONNECT BY LEVEL <= 20
+;
