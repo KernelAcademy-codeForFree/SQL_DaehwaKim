@@ -1,0 +1,7 @@
+SELECT con.Continent, FLOOR(AVG(city.Population)) 
+FROM CITY city
+JOIN COUNTRY con
+  ON city.CountryCode = con.Code
+GROUP BY con.Continent
+ORDER BY con.Continent
+;
