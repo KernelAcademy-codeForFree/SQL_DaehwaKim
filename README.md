@@ -37,4 +37,8 @@
 250602 hackerrank.com - Top Earners <br>
 250603 hackerrank.com - Population Census <br>
 250603 hackerrank.com - Draw The Triangle 1 <br>
+250605 hackerrank.com - Average Population of Each Continent <br>
+250605 hackerrank.com - Draw The Triangle 2 <br>
+250605 hackerrank.com - African Cities <br>
+
 
